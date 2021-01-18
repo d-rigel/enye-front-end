@@ -1,0 +1,33 @@
+* {
+  margin-top: 0px;
+  margin-left: 2px;
+}
+
+.app {
+  background-color: white;
+}
+
+.app__searchContainer {
+  border: 1px solid;
+  background-color: white;
+  width: 50%;
+  border-radius: 2px;
+}
+
+.app__searchInput {
+  width: 50%;
+  background-color: white;
+  outline-width: 0;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.app__header {
+  display: flex;
+  background-color: rgb(88, 88, 235);
+}
+
+.app__title {
+  margin-left: 50px;
+}

@@ -1,0 +1,14 @@
+.table__head {
+  background-color: rgb(91, 91, 185);
+  color: aliceblue;
+}
+
+.table__body {
+  font-size: 14px;
+  font-weight: 600;
+  background-color: lightgray;
+}
+
+table {
+  background-color: white;
+}
